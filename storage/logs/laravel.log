@@ -1,0 +1,360 @@
+[2019-12-24 02:49:43] local.ERROR: Cannot declare class CreateUsersTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CreateUsersTable, because the name is already in use at /home/zejr/PhpstormProjects/projeto-investimento/database/migrations/2019_12_24_020418_create_users_table.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2019-12-24 13:01:27] local.ERROR: Cannot declare class CreateUsersTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CreateUsersTable, because the name is already in use at /home/zejr/PhpstormProjects/projeto-investimento/database/migrations/2019_12_24_020418_create_users_table.php:53)
+[stacktrace]
+#0 {main}
+"} 
+[2019-12-24 13:02:01] local.ERROR: Cannot declare class CreateUsersTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CreateUsersTable, because the name is already in use at /home/zejr/PhpstormProjects/projeto-investimento/database/migrations/2019_12_24_020418_create_users_table.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2019-12-24 13:12:01] local.ERROR: Cannot declare class CreateUsersTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CreateUsersTable, because the name is already in use at /home/zejr/PhpstormProjects/projeto-investimento/database/migrations/2019_12_24_020418_create_users_table.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2019-12-24 13:14:47] local.ERROR: Command "make" is not defined.
+
+Did you mean one of these?
+    make:bindings
+    make:channel
+    make:command
+    make:controller
+    make:criteria
+    make:entity
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:presenter
+    make:provider
+    make:repository
+    make:request
+    make:resource
+    make:rest-controller
+    make:rule
+    make:seeder
+    make:test
+    make:transformer
+    make:validator {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"make\" is not defined.
+
+Did you mean one of these?
+    make:bindings
+    make:channel
+    make:command
+    make:controller
+    make:criteria
+    make:entity
+    make:event
+    make:exception
+    make:factory
+    make:job
+    make:listener
+    make:mail
+    make:middleware
+    make:migration
+    make:model
+    make:notification
+    make:observer
+    make:policy
+    make:presenter
+    make:provider
+    make:repository
+    make:request
+    make:resource
+    make:rest-controller
+    make:rule
+    make:seeder
+    make:test
+    make:transformer
+    make:validator at /home/zejr/PhpstormProjects/projeto-investimento/vendor/symfony/console/Application.php:670)
+[stacktrace]
+#0 /home/zejr/PhpstormProjects/projeto-investimento/vendor/symfony/console/Application.php(236): Symfony\\Component\\Console\\Application->find('make')
+#1 /home/zejr/PhpstormProjects/projeto-investimento/vendor/symfony/console/Application.php(148): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#2 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Console/Application.php(93): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(131): Illuminate\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /home/zejr/PhpstormProjects/projeto-investimento/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2019-12-24 13:15:10] local.ERROR: Cannot declare class CreateUsersTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CreateUsersTable, because the name is already in use at /home/zejr/PhpstormProjects/projeto-investimento/database/migrations/2019_12_24_020418_create_users_table.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2019-12-24 13:15:51] local.ERROR: Cannot declare class CreateUsersTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 64): Cannot declare class CreateUsersTable, because the name is already in use at /home/zejr/PhpstormProjects/projeto-investimento/database/migrations/2019_12_24_020418_create_users_table.php:51)
+[stacktrace]
+#0 {main}
+"} 
+[2019-12-24 14:20:26] local.ERROR: Route [] not defined. (View: /home/zejr/PhpstormProjects/projeto-investimento/resources/views/user/login.blade.php) {"exception":"[object] (Facade\\Ignition\\Exceptions\\ViewException(code: 0): Route [] not defined. (View: /home/zejr/PhpstormProjects/projeto-investimento/resources/views/user/login.blade.php) at /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420)
+[stacktrace]
+#0 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1207): Illuminate\\Routing\\UrlGenerator->route('')
+#1 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1165): Collective\\Html\\FormBuilder->getRouteAction('')
+#2 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(144): Collective\\Html\\FormBuilder->getAction(Array)
+#3 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(261): Collective\\Html\\FormBuilder->open(Array)
+#4 /home/zejr/PhpstormProjects/projeto-investimento/resources/views/user/login.blade.php(10): Illuminate\\Support\\Facades\\Facade::__callStatic('open', Array)
+#5 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/zejr/Phps...')
+#6 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/zejr/Phps...', Array)
+#7 /home/zejr/PhpstormProjects/projeto-investimento/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(36): Illuminate\\View\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#8 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(143): Facade\\Ignition\\Views\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#9 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\\View\\View->getContents()
+#10 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\\View\\View->renderContents()
+#11 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Http/Response.php(42): Illuminate\\View\\View->render()
+#12 /home/zejr/PhpstormProjects/projeto-investimento/vendor/symfony/http-foundation/Response.php(202): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#13 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(749): Symfony\\Component\\HttpFoundation\\Response->__construct(Object(Illuminate\\View\\View))
+#14 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(721): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#15 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#16 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#17 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#31 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#32 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#33 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#34 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#35 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#36 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 /home/zejr/PhpstormProjects/projeto-investimento/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#49 /home/zejr/PhpstormProjects/projeto-investimento/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#50 /home/zejr/PhpstormProjects/projeto-investimento/server.php(21): require_once('/home/zejr/Phps...')
+#51 {main}
+
+[previous exception] [object] (Symfony\\Component\\Routing\\Exception\\RouteNotFoundException(code: 0): Route [] not defined. at /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420)
+[stacktrace]
+#0 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1207): Illuminate\\Routing\\UrlGenerator->route('')
+#1 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1165): Collective\\Html\\FormBuilder->getRouteAction('')
+#2 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(144): Collective\\Html\\FormBuilder->getAction(Array)
+#3 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(261): Collective\\Html\\FormBuilder->open(Array)
+#4 /home/zejr/PhpstormProjects/projeto-investimento/storage/framework/views/7dd87beb4da27516528e97f69c49726a91c2478c.php(10): Illuminate\\Support\\Facades\\Facade::__callStatic('open', Array)
+#5 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/zejr/Phps...')
+#6 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/zejr/Phps...', Array)
+#7 /home/zejr/PhpstormProjects/projeto-investimento/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(36): Illuminate\\View\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#8 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(143): Facade\\Ignition\\Views\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#9 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\\View\\View->getContents()
+#10 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\\View\\View->renderContents()
+#11 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Http/Response.php(42): Illuminate\\View\\View->render()
+#12 /home/zejr/PhpstormProjects/projeto-investimento/vendor/symfony/http-foundation/Response.php(202): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#13 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(749): Symfony\\Component\\HttpFoundation\\Response->__construct(Object(Illuminate\\View\\View))
+#14 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(721): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#15 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#16 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#17 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#31 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#32 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#33 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#34 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#35 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#36 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 /home/zejr/PhpstormProjects/projeto-investimento/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#49 /home/zejr/PhpstormProjects/projeto-investimento/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#50 /home/zejr/PhpstormProjects/projeto-investimento/server.php(21): require_once('/home/zejr/Phps...')
+#51 {main}
+"} 
+[2019-12-24 14:21:15] local.ERROR: Route [] not defined. (View: /home/zejr/PhpstormProjects/projeto-investimento/resources/views/user/login.blade.php) {"exception":"[object] (Facade\\Ignition\\Exceptions\\ViewException(code: 0): Route [] not defined. (View: /home/zejr/PhpstormProjects/projeto-investimento/resources/views/user/login.blade.php) at /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420)
+[stacktrace]
+#0 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1207): Illuminate\\Routing\\UrlGenerator->route('')
+#1 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1165): Collective\\Html\\FormBuilder->getRouteAction('')
+#2 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(144): Collective\\Html\\FormBuilder->getAction(Array)
+#3 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(261): Collective\\Html\\FormBuilder->open(Array)
+#4 /home/zejr/PhpstormProjects/projeto-investimento/resources/views/user/login.blade.php(10): Illuminate\\Support\\Facades\\Facade::__callStatic('open', Array)
+#5 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/zejr/Phps...')
+#6 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/zejr/Phps...', Array)
+#7 /home/zejr/PhpstormProjects/projeto-investimento/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(36): Illuminate\\View\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#8 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(143): Facade\\Ignition\\Views\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#9 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\\View\\View->getContents()
+#10 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\\View\\View->renderContents()
+#11 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Http/Response.php(42): Illuminate\\View\\View->render()
+#12 /home/zejr/PhpstormProjects/projeto-investimento/vendor/symfony/http-foundation/Response.php(202): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#13 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(749): Symfony\\Component\\HttpFoundation\\Response->__construct(Object(Illuminate\\View\\View))
+#14 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(721): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#15 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#16 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#17 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#31 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#32 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#33 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#34 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#35 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#36 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 /home/zejr/PhpstormProjects/projeto-investimento/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#49 /home/zejr/PhpstormProjects/projeto-investimento/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#50 /home/zejr/PhpstormProjects/projeto-investimento/server.php(21): require_once('/home/zejr/Phps...')
+#51 {main}
+
+[previous exception] [object] (Symfony\\Component\\Routing\\Exception\\RouteNotFoundException(code: 0): Route [] not defined. at /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420)
+[stacktrace]
+#0 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1207): Illuminate\\Routing\\UrlGenerator->route('')
+#1 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(1165): Collective\\Html\\FormBuilder->getRouteAction('')
+#2 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravelcollective/html/src/FormBuilder.php(144): Collective\\Html\\FormBuilder->getAction(Array)
+#3 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(261): Collective\\Html\\FormBuilder->open(Array)
+#4 /home/zejr/PhpstormProjects/projeto-investimento/storage/framework/views/7dd87beb4da27516528e97f69c49726a91c2478c.php(10): Illuminate\\Support\\Facades\\Facade::__callStatic('open', Array)
+#5 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/zejr/Phps...')
+#6 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('/home/zejr/Phps...', Array)
+#7 /home/zejr/PhpstormProjects/projeto-investimento/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(36): Illuminate\\View\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#8 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(143): Facade\\Ignition\\Views\\Engines\\CompilerEngine->get('/home/zejr/Phps...', Array)
+#9 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\\View\\View->getContents()
+#10 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\\View\\View->renderContents()
+#11 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Http/Response.php(42): Illuminate\\View\\View->render()
+#12 /home/zejr/PhpstormProjects/projeto-investimento/vendor/symfony/http-foundation/Response.php(202): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#13 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(749): Symfony\\Component\\HttpFoundation\\Response->__construct(Object(Illuminate\\View\\View))
+#14 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(721): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#15 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#16 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#17 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#21 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#22 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#23 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#24 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#25 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#27 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#28 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#31 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#32 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#33 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#34 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#35 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#36 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#38 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#39 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#40 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#43 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#44 /home/zejr/PhpstormProjects/projeto-investimento/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#45 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#48 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#49 /home/zejr/PhpstormProjects/projeto-investimento/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#50 /home/zejr/PhpstormProjects/projeto-investimento/server.php(21): require_once('/home/zejr/Phps...')
+#51 {main}
+"} 
+[2019-12-24 16:19:10] local.ERROR: Method App\Http\Controllers\Controller::login does not exist. {"exception":"[object] (BadMethodCallException(code: 0): Method App\\Http\\Controllers\\Controller::login does not exist. at /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Controller.php:68)
+[stacktrace]
+#0 [internal function]: Illuminate\\Routing\\Controller->__call('login', Array)
+#1 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(54): call_user_func_array(Array, Array)
+#2 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(45): Illuminate\\Routing\\Controller->callAction('login', Array)
+#3 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Route.php(219): Illuminate\\Routing\\ControllerDispatcher->dispatch(Object(Illuminate\\Routing\\Route), Object(App\\Http\\Controllers\\Controller), 'login')
+#4 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Route.php(176): Illuminate\\Routing\\Route->runController()
+#5 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(681): Illuminate\\Routing\\Route->run()
+#6 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#7 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php(41): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#8 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#9 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/VerifyCsrfToken.php(76): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#10 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#11 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/View/Middleware/ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#12 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#13 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php(56): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#14 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#15 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#16 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#17 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Cookie/Middleware/EncryptCookies.php(66): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#18 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#19 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#20 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(683): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#21 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(658): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#22 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(624): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#23 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Routing/Router.php(613): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#24 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(170): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#25 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#26 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#28 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#29 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#30 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#31 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#32 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(62): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#33 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#34 /home/zejr/PhpstormProjects/projeto-investimento/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#35 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#36 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#37 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#38 /home/zejr/PhpstormProjects/projeto-investimento/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#39 /home/zejr/PhpstormProjects/projeto-investimento/public/index.php(55): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#40 /home/zejr/PhpstormProjects/projeto-investimento/server.php(21): require_once('/home/zejr/Phps...')
+#41 {main}
+"} 
